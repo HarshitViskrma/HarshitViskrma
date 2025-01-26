@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshitViskrma/HarshitViskrma/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshitViskrma/HarshitViskrma/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/HarshitViskrma/HarshitViskrma/output/github-snake.svg" />
+</picture>
+
 # 💫 About Me:
 🔭 I’m currently working on software development<br>👯 I’m looking to collaborate on open source<br>🤝 I’m looking for help with to enhance our skill<br>🌱 I’m currently learning MERN Stack<br>💬 I'm dedicated to continuous learning and professional growth and am committed to contributing to the development of our society.<br>⚡ Fun fact is to work on friendly environment
 
@@ -26,8 +32,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshitViskrma/HarshitViskrma/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshitViskrma/HarshitViskrma/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/HarshitViskrma/HarshitViskrma/output/github-snake.svg" />
-</picture>
