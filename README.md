@@ -7,16 +7,14 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/HarshitViskrma/HarshitViskrma/output/github-snake.svg" />
 </picture>
 
----
+-
 [![](https://visitcount.itsvg.in/api?id=HarshitViskrma&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <img src="banner_github.jpg" alt="GitHub Banner" width="100%" />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 # 💫 About Me:
 As an aspiring software engineer, I specialize in solving complex problems and building robust solutions using Java. My focus is on full-stack development, and I am passionate about writing efficient code, optimizing algorithms, and collaborating with cross-functional teams.
 I'm dedicated to continuous learning and professional growth and am committed to contributing to the development of our society. Let's connect and explore opportunities to create innovative solutions together! 💻🚀
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
